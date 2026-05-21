@@ -2,9 +2,5 @@ files:
   - source: en/**/*.json
     translation: '%original_file_name%'
 project_id: "ace-attorney-trilogy-ua"
-
-files:
-  - source: /main/en/*.json
-    translation: /main/uk/%original_file_name%
     type: json
     scheme: "context,ignored,ignored,text"
