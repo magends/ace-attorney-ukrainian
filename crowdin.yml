@@ -1,8 +1,0 @@
-project_id: "ace-attorney-trilogy-ua"
-
-files:
-  - source: /en/**/*.csv
-    translation: /uk/%original_file_name%
-    type: csv
-    first_line_contains_header: true
-    scheme: "identifier,source_string,translation"
